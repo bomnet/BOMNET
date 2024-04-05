@@ -1,0 +1,17 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: BOMNET
+Bundle-SymbolicName: io.univgustaveeiffel.ide.bomnet;singleton:=true
+Bundle-Version: 1.0.0.qualifier
+Bundle-Vendor: University Gustave Eiffel
+Require-Bundle: org.eclipse.jface,
+ org.eclipse.e4.ui.services,
+ org.eclipse.e4.core.di.annotations,
+ org.eclipse.core.resources,
+ org.eclipse.ui.workbench,
+ org.eclipse.core.runtime
+Bundle-RequiredExecutionEnvironment: JavaSE-17
+Import-Package: javax.annotation;version="0.0.0",
+ javax.inject;version="0.0.0",
+ org.osgi.framework;version="0.0.0"
+Automatic-Module-Name: io.univgustaveeiffel.ide.bomnet

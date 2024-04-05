@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <description name="BOMNeT Update Site">
+      The BOMNET plugin loads an IFC file to generate environment files within OMNeT++ and INET simulations.
+   </description>
+   <feature url="features/io.univgustaveeiffel.ide.bomnet.feature_1.0.0.202403261845.jar" id="io.univgustaveeiffel.ide.bomnet.feature" version="1.0.0.202403261845"/>
+</site>
