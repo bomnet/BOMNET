@@ -23,6 +23,6 @@ To compile the plugin, ensure you have 'Eclipse Plug-in Development Environment'
 
 ## Credits and Contact
 
-This project is an academic project supervised by [Professor Abderrezak Rachedi](https://igm.univ-mlv.fr/~rachedi/), PhD canditates [Aurélien Chambon](https://aurelienchambon.pythonanywhere.com/en/) and [Clément Dutriez](https://www.linkedin.com/in/cl%C3%A9ment-dutriez/) with the help of Master degree students [Abderrahmane Melek](https://www.linkedin.com/in/melek-abderrahmane/), Khalifa Serraye, Mohammed Menacer and [Louis Thidet](https://louis-thidet.github.io/) as a M2-SSIO project in Université Gustave Eiffel, France.
+This project is an academic project supervised by [Professor Abderrezak Rachedi](https://igm.univ-mlv.fr/~rachedi/), PhD canditates [Aurélien Chambon](https://aurelienchambon.pythonanywhere.com/en/) and [Clément Dutriez](https://www.linkedin.com/in/cl%C3%A9ment-dutriez/) with the help of Master degree students [Abderrahmane Melek](https://www.linkedin.com/in/melek-abderrahmane/), [Khalifa Serraye](https://khalifaserraye.github.io/portfolio/), Mohammed Menacer and [Louis Thidet](https://louis-thidet.github.io/) as a M2-SSIO project in Université Gustave Eiffel, France.
 
 For any questions, please contact us at contact.bomnet@gmail.com.
